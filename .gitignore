@@ -1,0 +1,21 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# Dataset files
+dataset/*.csv
+
+# Generated results
+results/*.csv
+
+# System files
+.DS_Store
+Thumbs.db
