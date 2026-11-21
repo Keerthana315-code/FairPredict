@@ -3,30 +3,30 @@
 
 ## Project Overview
 
-FairPredict is a Data Science project that focuses on identifying and mitigating bias in machine learning models.
+FairPredict is a Data Science project focused on identifying and mitigating bias in machine learning models.
 
-This project uses a data reweighting technique to improve fairness in income prediction.
+This project uses data reweighting to study fairness in income prediction.
 
-The study compares model performance and fairness before and after applying bias mitigation.
+It compares model performance and fairness before and after applying bias mitigation.
 
 ## Aim
 
-To analyse bias in machine learning predictions and evaluate the effectiveness of data reweighting as a bias mitigation technique.
+To analyse potential bias in machine learning predictions and evaluate the effectiveness of data reweighting as a bias mitigation technique.
 
 ## Objectives
 
 - Explore and understand the dataset.
-- Identify potential bias based on gender.
+- Identify potential gender-related disparities.
 - Analyse income distribution across gender groups.
 - Develop a baseline machine learning model.
-- Apply a data reweighting technique.
+- Apply data reweighting.
 - Compare fairness and model performance before and after mitigation.
 
 ## Dataset
 
-Adult Income Dataset.
+Adult Income Dataset
 
-Source: UCI Machine Learning Repository.
+Source: UCI Machine Learning Repository
 
 Target variable: Income (>50K or <=50K).
 
@@ -66,7 +66,7 @@ Protected attribute: Gender (Sex).
 
 ## Expected Outcome
 
-The project aims to evaluate whether data reweighting can reduce observed gender-related disparities while maintaining reasonable predictive performance.
+The project evaluates whether data reweighting can reduce observed gender-related disparities while maintaining reasonable predictive performance.
 
 Actual results will be reported after experimentation.
 
